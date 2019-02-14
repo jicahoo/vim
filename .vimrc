@@ -2,6 +2,7 @@
 :set tabstop=4
 :set autoindent
 :set number
+:set hlsearch
 :color desert
 
 filetype on
